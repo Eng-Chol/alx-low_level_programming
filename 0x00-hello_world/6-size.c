@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  * main - function that print the size of various characters in c
+  * main - function that print the size of various characters in c.
   *
   * Return: Always 0.
   */
